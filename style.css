@@ -1,0 +1,36 @@
+*{
+    font-family: Arial;
+    font-size: 24px;
+    color: cadetblue;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.countainer{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    font-family: Arial;
+    font-size: 26px;
+    width: 50%;
+    border-radius: 15px;
+    border: 10px transparent;
+    background-color: cadetblue;
+    margin-top: 30px;
+    margin-bottom: -25px;
+    padding: 15px;
+}
+
+input, p{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    border: transparent;
+    background-color: cornsilk;
+    text-align: center;
+}
