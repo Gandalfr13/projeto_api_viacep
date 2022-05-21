@@ -1,5 +1,3 @@
-'use-strict'
-
 const cep = document.getElementById("cep")
 const search = document.getElementById("search")
 const clear = document.getElementById("clear")
